@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insights on Socrates L.</title>
+    <link>http://localhost:1313/insights/</link>
+    <description>Recent content in Insights on Socrates L.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2024 Socrates Lopez. Hosted on GitHub.</copyright>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/insights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building My Personal Site with Hugo and Congo</title>
+      <link>http://localhost:1313/insights/post-01-hugo-journey/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/post-01-hugo-journey/</guid>
+      <description>In this technical deep dive, I document the process of constructing a personal website using Hugo, a high-performance static site generator, paired with the Congo theme—a minimalist, highly customizable theme.</description>
+    </item>
+  </channel>
+</rss>
