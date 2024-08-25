@@ -14,7 +14,7 @@ copyright = "© 2024 Socrates Lopez. Hosted on GitHub."
 
 [params.author]   
   name = "Socrates Lopez"
-  image = "img/profile-demo.webp"
+  image = "img/my-avatar.jpg"
   headline = "Automating What Matters | Engineering Simplicity"
   bio = "I’m a DevOps engineer focused on creating reliable, efficient automation solutions. Here to build, learn, and share what I’ve discovered along the way."
   links = [
