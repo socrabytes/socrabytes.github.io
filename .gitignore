@@ -1,0 +1,9 @@
+# Hugo generated files
+public/
+resources/_gen/
+
+# Lock file created during the build
+.hugo_build.lock
+
+# System files
+.DS_Store
