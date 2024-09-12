@@ -17,7 +17,7 @@ At its core, **idempotency** ensures that an operation can be repeated without a
 
 For seasoned DevOps professionals, idempotency is synonymous with **reliability and scalability**. Whether you’re deploying across hundreds of nodes or managing complex interdependencies, idempotent operations prevent **configuration drift**, **inconsistencies**, and **redundant actions**—all of which can introduce errors or inefficiencies.
 
-{{< alert "clipboard-check" >}} Think about your infrastructure:
+{{< alert "check" >}} Think about your infrastructure:
 
 - Are there operations, like package installations or service configurations, that frequently repeat across environments?
 - Are they introducing unnecessary overhead or risks due to lack of idempotency?
@@ -181,8 +181,8 @@ For example:
 ```
 
 In this example, the task runs only if Apache isn’t already installed.
-{{< alert >}} 
-🚩 **Pro-Tip**: Combining `when` with Ansible facts (such as `ansible_facts.packages.httpd`) lets you control the flow of your playbook based on real-time system state. This ensures that tasks run only when necessary, improving efficiency and avoiding redundancy. 
+{{< alert "circle-info" >}} 
+Combining `when` with Ansible facts (such as `ansible_facts.packages.httpd`) lets you control the flow of your playbook based on real-time system state. This ensures that tasks run only when necessary, improving efficiency and avoiding redundancy. 
 {{< /alert >}}
 
 #### 4. Use Handlers for Dependent Actions
