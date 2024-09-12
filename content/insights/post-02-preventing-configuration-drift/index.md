@@ -17,13 +17,13 @@ At its core, **idempotency** ensures that an operation can be repeated without a
 
 For seasoned DevOps professionals, idempotency is synonymous with **reliability and scalability**. Whether you’re deploying across hundreds of nodes or managing complex interdependencies, idempotent operations prevent **configuration drift**, **inconsistencies**, and **redundant actions**—all of which can introduce errors or inefficiencies.
 
-{{< notice note >}} 🚩 Think about your infrastructure:
+{{< alert "clipboard-check" >}} Think about your infrastructure:
 
 - Are there operations, like package installations or service configurations, that frequently repeat across environments?
 - Are they introducing unnecessary overhead or risks due to lack of idempotency?
 
 Seemingly routine tasks, like copying files or restarting services, can quickly become performance bottlenecks if not handled idempotently. 
-{{< /notice >}}
+{{< /alert >}}
 
 ### Why It Matters
 
