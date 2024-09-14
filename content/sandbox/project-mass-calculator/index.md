@@ -2,6 +2,8 @@
 title: "Kubernetes Helm Chart for Mass Calculator"
 description: "A Kubernetes Helm Chart for deploying a mass calculator application. This project demonstrates the deployment of a Go application using Docker and Helm, with configurations for both development and production environments."
 date: 2024-08-06
+categories: ["Cloud Engineering"]
+tags: ["Kubernetes" , "Helm", "Docker", "Go", "Containerization", "RESTful API"]
 thumbnail: "mass-calc-thumb.webp"
 thumbnailAlt: "Kubernetes Helm Chart Thumbnail"
 cover: ""
