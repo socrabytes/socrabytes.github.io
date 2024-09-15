@@ -2,8 +2,8 @@
 title: "Preventing Configuration Drift with Ansible: Ensuring Idempotency in Automation"
 description: "An in-depth look at how idempotency in Ansible prevents configuration drift, ensuring consistency in large-scale, multi-cloud environments."
 date: 2024-09-12
-tags: ["Ansible", "Automation", "Configuration Drift", "Idempotency"]
-categories: ["DevOps", "Automation"]
+tags: ["Ansible", "Automation", "Configuration Drift", "Idempotency", "Infrastructure as Code", "Shell Scripts"]
+categories: ["Automation & DevOps"]
 cover: "ansible-idempotency-cover.png"  
 coverAlt: "Ansible logo illustrating idempotency in automation"
 thumbnail: "ansible-thumb.webp"
