@@ -11,18 +11,18 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "About Me"
+  pageRef = "about me"
   weight = 10
 
 [[main]]
-  name = "Insights"
-  pageRef = "insights"
+  name = "Tech Journal"
+  pageRef = "tech journal"
   weight = 20
 
 [[main]]
-  name = "Sandbox"
-  pageRef = "sandbox"
+  name = "Projects"
+  pageRef = "projects"
   weight = 30
 
 [[main]]
