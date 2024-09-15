@@ -8,8 +8,7 @@ copyright = "© 2024 Socrates Lopez. Hosted on GitHub."
 
 [params]
   dateFormat = "January 2, 2006"
-
-  # mainSections = ["section1", "section2"]
+  mainSections = ["tech-journal", "projects"]  # mainSections = ["section1", "section2"]
   description = "A space where I share my projects, insights and the lessons I've learned in the field of DevOps, automation, and cloud engineering."
 
 [params.author]   
