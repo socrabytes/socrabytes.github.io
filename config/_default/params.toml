@@ -33,6 +33,7 @@ fingerprintAlgorithm = "sha256"
   layout = "profile" # valid options: page, profile, custom
   showRecent = true
   recentLimit = 5
+  mainSections = ["tech-journal", "projects"]
 
 [article]
   showDate = true
