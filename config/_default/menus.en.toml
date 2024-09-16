@@ -28,52 +28,61 @@
   title = "See my portfolio of projects"
   weight = 30
 
-# [[main]]
-#   name = "GitHub"
-#   url = "https://github.com/socrabytes"
-#   weight = 40
-#   [main.params]
-#     icon = "github"
-#     showName = false
-#     target = "_blank"
-
-# [[main]]
-#   name = "LinkedIn"
-#   url = "https://linkedin.com/in/socrateslopez"
-#   weight = 50
-#   [main.params]
-#     icon = "linkedin"
-#     showName = false
-#     target = "_blank" 
-
 [[main]]
   identifier = "search"
-  weight = 70
+  weight = 40
   [main.params]
     action = "search"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+  [footer.params]
+    icon = "tag"
+    showName = true
+    target = "_blank"
+
+
+# [[footer]]
+#   name = "GitHub"
+#   url = "https://github.com/socrabytes"
+#   weight = 20
+#   [footer.params]
+#     icon = "github"
+#     showName = true
+#     target = "_blank"
+
+# [[footer]]
+#   name = "LinkedIn"
+#   url = "https://linkedin.com/in/socrateslopez"
+#   weight = 30
+#   [footer.params]
+#     icon = "linkedin"
+#     showName = true
+#     target = "_blank"     
 
 [[footer]]
   identifier = "search"
-  weight = 10
+  weight = 40
   [footer.params]
     action = "search"
     icon = "search"
 
-[[footer]]
-  name = "Privacy"
-  pageRef = "privacy"
-  weight = 20
+# [[footer]]
+#   name = "Privacy"
+#   pageRef = "privacy"
+#   weight = 20
 
-[[footer]]
-  name = "Terms"
-  pageRef = "terms"
-  weight = 30
+# [[footer]]
+#   name = "Terms"
+#   pageRef = "terms"
+#   weight = 30
 
-[[footer]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 40
+# [[footer]]
+#   name = "Contact"
+#   pageRef = "contact"
+#   weight = 40
