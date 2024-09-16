@@ -47,10 +47,10 @@
 #     target = "_blank" 
 
 [[main]]
-  identifier = "locale"
+  identifier = "search"
   weight = 70
   [main.params]
-    action = "locale"
+    action = "search"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
