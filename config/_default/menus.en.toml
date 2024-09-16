@@ -28,23 +28,23 @@
   title = "See my portfolio of projects"
   weight = 30
 
-[[main]]
-  name = "GitHub"
-  url = "https://github.com/socrabytes"
-  weight = 40
-  [main.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
+# [[main]]
+#   name = "GitHub"
+#   url = "https://github.com/socrabytes"
+#   weight = 40
+#   [main.params]
+#     icon = "github"
+#     showName = false
+#     target = "_blank"
 
-[[main]]
-  name = "LinkedIn"
-  url = "https://linkedin.com/in/socrateslopez"
-  weight = 50
-  [main.params]
-    icon = "linkedin"
-    showName = false
-    target = "_blank" 
+# [[main]]
+#   name = "LinkedIn"
+#   url = "https://linkedin.com/in/socrateslopez"
+#   weight = 50
+#   [main.params]
+#     icon = "linkedin"
+#     showName = false
+#     target = "_blank" 
 
 [[main]]
   identifier = "locale"
