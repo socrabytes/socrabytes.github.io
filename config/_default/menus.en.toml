@@ -13,16 +13,19 @@
 [[main]]
   name = "About Me"
   pageRef = "about"
+  title = "Learn more about Socrates"
   weight = 10
 
 [[main]]
   name = "Tech Journal"
   pageRef = "tech-journal"
+  title = "Explore my technical articles and insights"
   weight = 20
 
 [[main]]
   name = "Projects"
   pageRef = "projects"
+  title = "See my portfolio of projects"
   weight = 30
 
 [[main]]
