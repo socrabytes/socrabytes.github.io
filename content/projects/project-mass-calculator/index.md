@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Helm Chart for Mass Calculator"
 description: "A Kubernetes Helm Chart for deploying a mass calculator application. This project demonstrates the deployment of a Go application using Docker and Helm, with configurations for both development and production environments."
+summary: "Deploy a Go-based Mass Calculator using Docker and Helm on Kubernetes, demonstrating containerization and cloud-native best practices."
 date: 2024-08-06
 categories: ["Cloud Engineering"]
 tags: ["Kubernetes" , "Helm", "Docker", "Go", "Containerization", "RESTful API"]
@@ -54,4 +55,4 @@ The Helm chart’s flexibility allows for easy customization, with parameters de
 ---
 
 You can find the project repository here: [GitHub - Mass Calculator Helm Chart](https://github.com/socrabytes/mass-calculator-helm-chart)
-a
+
