@@ -52,7 +52,7 @@ fingerprintAlgorithm = "sha256"
   showTableOfContents = false
   showTaxonomies = true
   showWordCount = false
-  showComments = false
+  showComments = true
   sharingLinks = ["x-twitter", "facebook","linkedin", "reddit", "email"]
 
 [list]
