@@ -1,5 +1,6 @@
 ---
 title: "Building My Personal Site with Hugo and Congo"
+slug: "Building-My-Personal-site-with-Hugo-and-Congo"
 description: "In this post, I share my journey of building this very website using Hugo and the Congo theme. From setting up the environment to tweaking the configurations, here are the steps I followed and the lessons I learned."
 summary: "A practical guide to building a personal website using Hugo and the Congo theme, covering setup, customization, and deployment to GitHub Pages."
 date: 2024-08-06
