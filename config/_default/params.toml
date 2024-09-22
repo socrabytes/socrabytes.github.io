@@ -20,8 +20,8 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/square-logo-dark.png" # Bug: theme improperly handling logo versions of light/dark
-  logoDark = "img/square-logo.png" # Dark mode logo swapped for rendering bug workaround
+  logo = "img/logo-dark.png" # Bug: theme improperly handling logo versions of light/dark
+  logoDark = "img/logo.png" # Dark mode logo swapped for rendering bug workaround
   showTitle = false # Disable title as logo is now displayed
 
 [footer]
