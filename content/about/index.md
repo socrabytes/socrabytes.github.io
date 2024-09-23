@@ -1,10 +1,12 @@
 ---
 title: "Hey there, I'm Socrates 👋"
 date: 2024-08-06
+showDate: false
+showReadingTime: false
+showTableofContents: article.showTableofContents
+showComments: false
 draft: false
 ---
-
-> 💡 **Welcome to my personal site!** This space is dedicated to sharing insights, projects, and thoughts on technology, DevOps, and cloud engineering.
 # 🌍 My Journey 
  My career has been a journey of solving complex problems and optimizing systems. I began in high-pressure environments, where managing operations and projects required me to streamline processes to meet ever-increasing demands for efficiency. 🚀 Driven by the need for greater efficiency, I began exploring automation tools, starting with Excel macros to manage the increasing demands of reporting. 
 
@@ -30,4 +32,4 @@ Here’s a look at the core technologies and tools that form the backbone of my 
 I'm currently expanding my knowledge  in cloud automation and exploring emerging trends in AI and machine 🤖 learning. I’m particularly excited about the potential to use these technologies to further optimize  cloud infrastructure and automate 🔁complex workflows, driving faster and more reliable software delivery.
 
 ## 🤝 Let's Build Something Amazing!
-I’m always interested in hearing about new projects, ideas, or trends in the technology sector. If you're looking to improve your cloud infrastructure, streamline software delivery processes, or simply discuss the latest in infrastructure and automation, let’s connect. Reach out to me on [LinkedIn](https://www.linkedin.com/in/socrateslopez) or check out my latest projects on [GitHub](https://github.com/socrabytes).\
+I’m always interested in hearing about new projects, ideas, or trends in the technology sector. If you're looking to improve your cloud infrastructure, streamline software delivery processes, or simply discuss the latest in infrastructure and automation, let’s connect. Reach out to me on [LinkedIn](https://www.linkedin.com/in/socrateslopez) or check out my latest projects on [GitHub](https://github.com/socrabytes).
