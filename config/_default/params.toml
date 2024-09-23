@@ -31,7 +31,7 @@ fingerprintAlgorithm = "sha256"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, custom
+  layout = "page" # valid options: page, profile, custom
   showRecent = true
   recentLimit = 5
   # mainSections = ["tech-journal", "projects"]
