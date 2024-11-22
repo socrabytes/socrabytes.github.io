@@ -1,0 +1,45 @@
+/* ==========================
+   Global Styles for About Me Image
+========================== */
+
+/* Container for the profile image */
+.about-me-image {
+  display: block;
+  margin: 0 auto; /* Center the image container */
+  text-align: center;
+}
+
+/* Styling for the profile image */
+.about-me-image img {
+  width: 60%; /* Responsive width */
+  max-width: 200px; /* Prevent excessive scaling on large screens */
+  height: 300px; /* Fixed height for an oval appearance */
+  object-fit: cover; /* Maintain aspect ratio while filling the container */
+  border-radius: 50%; /* Creates an oval shape */
+  border: 3px solid #06b6d4; /* Accent border for visual emphasis */
+  box-shadow: 0 10px 20px rgba(5, 88, 238, 0.15); /* Subtle shadow for depth */
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth hover transition */
+  padding: 5px; /* Padding around the image */
+}
+
+/* Hover effect for non-touch devices */
+.about-me-image img:hover {
+  transform: scale(1.05); /* Slight zoom effect on hover */
+  box-shadow: 0 15px 30px rgba(5, 88, 238, 0.25); /* Enhanced shadow on hover */
+}
+
+/* Mobile responsiveness for smaller screens */
+@media (max-width: 768px) {
+  .about-me-image img {
+    max-width: 150px; /* Reduce max width for smaller devices */
+    height: auto; /* Maintain proportion based on width */
+  }
+}
+
+/* Disable hover effects for touch devices */
+@media (hover: none) {
+  .about-me-image img:hover {
+    transform: none; /* Disable hover animations */
+    box-shadow: 0 10px 20px rgba(5, 88, 238, 0.15); /* Default shadow */
+  }
+}
