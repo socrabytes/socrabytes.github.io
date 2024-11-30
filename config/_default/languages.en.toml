@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Socrates Lopez"
-copyright = "© 2024 Socrates Lopez | Powered by Hugo & Congo | Hosted on GitHub | [Terms](legal/index.md/)"
+copyright = "© 2024 Socrates Lopez | Powered by Hugo & Congo | Hosted on GitHub | [Terms](legal/terms-n-conditions/index.md/)"
 
 [params]
   dateFormat = "January 2, 2006"

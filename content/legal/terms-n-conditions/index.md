@@ -24,11 +24,33 @@ By accessing and using the Website and Services, you acknowledge that you have r
 
 ## Content License
 
-All original content on this Website, including blog posts, tutorials, and articles, is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material, provided appropriate credit is given and any changes are indicated.
+Except where otherwise noted, all original content on this Website by [Socrates Lopez](https://socrabytes.github.io) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can view the full license terms as they apply to this website [here](https://github.com/socrabytes/socrabytes.github.io/blob/main/CONTENT_LICENSE).
+
+![Creative Commons Logo](cc.logo.svg "Creative Commons Attribution 4.0 International License")
+
+### What You Can Do:
+- **Share** — Copy and redistribute the material in any medium or format.
+- **Adapt** — Remix, transform, and build upon the material for any purpose, even commercially.
+
+### Conditions:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You can attribute the work to "Socrates Lopez" or "socrabytes.github.io."
+
+{{< lead >}}
+Some content, such as code snippets or linked repositories, may be licensed differently. Please refer to the specific license information provided with that content.
+{{< /lead >}}
 
 ## Source Code License
 
-The source code made available on this Website is licensed under the [MIT License](https://opensource.org/licenses/MIT). You may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software under the terms of the MIT License.
+The source code made available on this Website is licensed under the [MIT License](https://opensource.org/licenses/MIT). View the specific license terms in our repository [here](https://github.com/socrabytes/socrabytes.github.io/blob/main/LICENSE).
+
+### What the MIT License Allows:
+- **Use** — You can use the source code for personal, educational, or commercial projects.
+- **Modify** — You can make changes to the code to suit your needs.
+- **Distribute** — You can redistribute the code, either as-is or modified.
+
+{{< lead >}}
+This license does not provide any warranty or liability protection.
+{{< /lead >}}
 
 ## User Content
 ### Comments and Contributions
@@ -102,7 +124,7 @@ The Website may contain links to third-party websites or services not owned or c
 To the fullest extent permitted by applicable law:
 
 - **No Liability for Damages:** In no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the Website or Services.
-- **Total Liability:** Our total liability to you for all claims arising from or related to the Website or Services shall not exceed the amount paid by you to us (if any) for accessing the Website.
+- **Total Liability:** Our total liability to you for all claims arising from or related to the Website shall not exceed $0, as no fees are charged for accessing or using the Website.
 
 ## Disclaimer of Warranties
 
@@ -114,7 +136,7 @@ You agree to indemnify, defend, and hold harmless the Operator, its affiliates, 
 
 ## Governing Law and Dispute Resolution
 
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles. Any disputes arising under or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts located in [Your Jurisdiction].
+These Terms shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law principles. Any disputes arising under or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts located in Texas.
 
 ## Changes and Amendments
 
@@ -129,5 +151,6 @@ We may terminate or suspend your access to the Website and Services immediately,
 We are not responsible for any loss of data. You are responsible for maintaining backups of your data and User Content.
 
 ---
-
+{{< lead >}}
 _This Agreement is a legally binding contract between you and the Operator. By using the Website and Services, you agree to abide by these Terms._
+{{< /lead >}}
