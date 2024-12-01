@@ -26,7 +26,7 @@ By accessing and using the Website and Services, you acknowledge that you have r
 
 Except where otherwise noted, all original content on this Website by [Socrates Lopez](https://socrabytes.github.io) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can view the full license terms as they apply to this website [here](https://github.com/socrabytes/socrabytes.github.io/blob/main/CONTENT_LICENSE).
 
-![Creative Commons Logo](cc.logo.svg "Creative Commons Attribution 4.0 International License")
+![Creative Commons Logo](cc-logo.svg "Creative Commons Attribution 4.0 International License")
 
 ### What You Can Do:
 - **Share** — Copy and redistribute the material in any medium or format.
