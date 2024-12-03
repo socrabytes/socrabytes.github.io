@@ -3,6 +3,7 @@ title: "Terms and Conditions"
 description: "The terms and conditions governing the use of this website, including licensing information."
 date: 2024-11-29
 layout: "simple"
+sharingLinks: false
 draft: false
 ---
 {{< lead >}}
