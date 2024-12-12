@@ -7,3 +7,6 @@ resources/_gen/
 
 # System files
 .DS_Store
+
+# Local rules
+.windsurfrules
