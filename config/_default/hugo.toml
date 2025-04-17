@@ -7,7 +7,6 @@ defaultContentLanguage = "en"
 theme = "congo"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 [outputs]
@@ -15,3 +14,6 @@ summaryLength = 0
 
 [params]
   custom_css = "custom.css" 
+
+[pagination]
+  pagerSize = 10
