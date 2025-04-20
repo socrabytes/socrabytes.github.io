@@ -1,5 +1,5 @@
 ---
-title: "YouTube Digest – AI-Powered YouTube Summaries"
+title: "YouTube Digest – Containerized AI Summarization Pipeline"
 slug: "youtube-digest"
 date: 2025-04-20
 description: "Modular, containerized web app that generates persistent AI summaries of YouTube videos. Built with FastAPI, Next.js, PostgreSQL, and OpenAI—engineered for performance, scalability, and future growth."
