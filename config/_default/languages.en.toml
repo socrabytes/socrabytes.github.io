@@ -1,7 +1,11 @@
 languageCode = "en"
 languageName = "English"
-languageDirection = "ltr"
+displayName = "EN"
+htmlCode = "en"
 weight = 1
+rtl = false
+
+# Language-specific parameters
 
 title = "Socrates Lopez"
 copyright = "© 2024 Socrates Lopez | [Terms](legal/terms-n-conditions/) | [Privacy](legal/privacy-policy/)"
