@@ -8,7 +8,7 @@ rtl = false
 # Language-specific parameters
 
 title = "Socrates Lopez"
-copyright = "© 2024 Socrates Lopez | [Terms](legal/terms-n-conditions/) | [Privacy](legal/privacy-policy/)"
+copyright = "© 2025 Socrates Lopez | [Terms](legal/terms-n-conditions/) | [Privacy](legal/privacy-policy/)"
 
 [params]
   dateFormat = "January 2, 2006"
