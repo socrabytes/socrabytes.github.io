@@ -1,7 +1,7 @@
 ---
 title: "Behind the Build: Foundations, Tradeoffs & What’s Ahead"
 slug: "Behind-the-build-foundations-tradeoffs-what-s-ahead"
-date: 2025-04-27T09:00:00-05:00
+date: 2025-04-27
 description: "A behind-the-scenes look at the architecture, tradeoffs, and roadmap of YouTube Digest, an AI-powered summarization tool."
 summary: "How I built YouTube Digest to be fast, scalable, and ready for what’s next—from containerized infrastructure to async processing and cost-aware design."
 categories: ["Automation & Devops"]
