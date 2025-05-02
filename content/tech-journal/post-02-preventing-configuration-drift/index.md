@@ -6,10 +6,8 @@ summary: "This article contrasts traditional shell scripts with Ansible's idempo
 date: 2024-09-12
 tags: ["Ansible", "Automation", "Configuration Drift", "Idempotency", "Infrastructure as Code", "Shell Scripts"]
 categories: ["Automation & DevOps"]
-cover: "ansible-idempotency-cover.png"  
-coverAlt: "Ansible logo illustrating idempotency in automation"
-thumbnail: "ansible-thumb.webp"
-thumbnailAlt: "Ansible Idempotency Thumbnail"
+feature: "idempotency.png"  
+featureAlt: "Ansible logo illustrating idempotency in automation"
 draft: false
 ---
 
