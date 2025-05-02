@@ -1,8 +1,13 @@
 ---
 title: "Request Lifecycle: From URL to AI-Generated Digest"
-date: 2025-05-02T09:00:00-05:00
+slug: "request-lifecycle"
+date: 2025-05-11
+description: ""
+summary: ""
+categories: ["AI & Machine Learning"]
+tags: ["FastAPI", "PostgreSQL", "Background Processing", "Asynchronous Architecture"]
+featureAlt: ""
 draft: true
-tags: ["youtube-digest"]
 ---
 
 ## System Architecture & Flow
