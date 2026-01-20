@@ -2,13 +2,17 @@
 title: "Request Lifecycle: From URL to AI-Generated Digest"
 slug: "request-lifecycle"
 date: 2025-05-11
-description: ""
-summary: ""
+description: "A deep dive into asynchronous request processing for AI video summarization—from URL submission to background task orchestration."
+summary: "How a decoupled architecture with FastAPI, background workers, and PostgreSQL enables resilient, non-blocking AI digest generation while maintaining cost control and performance."
 categories: ["AI & Machine Learning"]
 tags: ["FastAPI", "PostgreSQL", "Background Processing", "Asynchronous Architecture"]
-featureAlt: ""
+featureAlt: "System architecture diagram showing the flow from user URL submission through asynchronous processing to AI-generated video digest."
 draft: true
 ---
+
+{{< lead >}}
+Every request to YouTube Digest travels through a carefully orchestrated pipeline designed for resilience, cost efficiency, and smooth user experience.
+{{< /lead >}}
 
 ## System Architecture & Flow
 
